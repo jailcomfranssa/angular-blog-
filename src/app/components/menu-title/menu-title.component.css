@@ -1,0 +1,19 @@
+.container_title-container{
+  color: white;
+}
+
+.container_title-container >h1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 264px;
+  font-family: "Segoe UI", ui-monospace;
+  display: flex;
+  justify-content: center;
+}
+
+.container_title-container >hr{
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+
